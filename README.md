@@ -1,2 +1,4 @@
 # notes
-Summary notes
+Summary notes structure:
+
+dev: developer notes.
